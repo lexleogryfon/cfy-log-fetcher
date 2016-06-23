@@ -1,3 +1,5 @@
+#!/usr/bin/python2.7
+
 from cloudify_rest_client import CloudifyClient
 import requests
 import logging
