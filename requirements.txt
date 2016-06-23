@@ -1,0 +1,2 @@
+cfy-log-fetcher
+cloudify-rest-client==3.3.1
